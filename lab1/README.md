@@ -1,16 +1,23 @@
-# практическое занятие 1. рабочее окружение
+﻿[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michail00/AI_introduction/blob/main/lab1/notebooks/lab1.ipynb)
 
-автор: подольский михаил александрович, группа 251-952
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michail00/AI_introduction/blob/main/lab1/notebooks/lab1.ipynb)
 
-## Структура папки lab1
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michail00/AI_introduction/blob/main/lab1/notebooks/lab1.ipynb)
 
-апка data содержит данные, папка notebooks – ноутбук lab1.ipynb, файл requirements.txt – список библиотек.
+# РїСЂР°РєС‚РёС‡РµСЃРєРѕРµ Р·Р°РЅСЏС‚РёРµ 1. СЂР°Р±РѕС‡РµРµ РѕРєСЂСѓР¶РµРЅРёРµ
 
-## запуск на локальном компьютере
+Р°РІС‚РѕСЂ: РїРѕРґРѕР»СЊСЃРєРёР№ РјРёС…Р°РёР» Р°Р»РµРєСЃР°РЅРґСЂРѕРІРёС‡, РіСЂСѓРїРїР° 251-952
 
- папке lab1:
+## РЎС‚СЂСѓРєС‚СѓСЂР° РїР°РїРєРё lab1
 
-1. Создать окружение: python -m venv .venv
-2. включить окружение: .venv\Scripts\activate (macOS и Linux: source .venv/bin/activate)
-3. установить библиотеки: pip install -r requirements.txt
-4. открыть notebooks/lab1.ipynb в VS Code и выбрать ядро .venv
+Р°РїРєР° data СЃРѕРґРµСЂР¶РёС‚ РґР°РЅРЅС‹Рµ, РїР°РїРєР° notebooks вЂ“ РЅРѕСѓС‚Р±СѓРє lab1.ipynb, С„Р°Р№Р» requirements.txt вЂ“ СЃРїРёСЃРѕРє Р±РёР±Р»РёРѕС‚РµРє.
+
+## Р·Р°РїСѓСЃРє РЅР° Р»РѕРєР°Р»СЊРЅРѕРј РєРѕРјРїСЊСЋС‚РµСЂРµ
+
+ РїР°РїРєРµ lab1:
+
+1. РЎРѕР·РґР°С‚СЊ РѕРєСЂСѓР¶РµРЅРёРµ: python -m venv .venv
+2. РІРєР»СЋС‡РёС‚СЊ РѕРєСЂСѓР¶РµРЅРёРµ: .venv\Scripts\activate (macOS Рё Linux: source .venv/bin/activate)
+3. СѓСЃС‚Р°РЅРѕРІРёС‚СЊ Р±РёР±Р»РёРѕС‚РµРєРё: pip install -r requirements.txt
+4. РѕС‚РєСЂС‹С‚СЊ notebooks/lab1.ipynb РІ VS Code Рё РІС‹Р±СЂР°С‚СЊ СЏРґСЂРѕ .venv
+
